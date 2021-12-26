@@ -1,10 +1,10 @@
 {
   "valid": [
     {
-      "passphrase": "TestingOneTwoThree",
-      "bip38": "6PRVWUbkzzsbcVac2qwfssoUJAN1Xhrg6bNk8J7Nzm5H7kxEbn2Nh2ZoGg",
-      "wif": "5KN7MzqK5wt2TP1fQCYyHBtDrXdJuXbUzm4A9rKAteGu3Qi5CVR",
-      "address": "1Jq6MksXQVWzrznvZzxkV6oY57oWXD9TXB",
+      "passphrase": "594YL2RW4ME72XVX9B41",
+      "bip38": "",
+      "wif": "cfrm38VUh2i5qzzCqedWtc8ekFxT3UpcQnfb42JRrLbTWCRTfgVTCXqLp3FYxqiyQDo4D3DyWzY
+      "address": "1QGtbKxx6FKDD66LwnrzHCAHmyZ7mDHqC4",
       "description": "no EC multiply / no compression #1"
     },
     {
